@@ -1,0 +1,22 @@
+{
+  "name": "netflex",
+  "version": "1.0.0",
+  "description": "NetFlex is a flexible and versatile network service library for Angular applications. It provides a convenient way to make HTTP requests with support for various data formats and authentication methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrajwalChNayak/NetFlex.git"
+  },
+  "keywords": [
+    "NetFlex"
+  ],
+  "author": "PrajwalChNayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrajwalChNayak/NetFlex/issues"
+  },
+  "homepage": "https://github.com/PrajwalChNayak/NetFlex#readme"
+}
